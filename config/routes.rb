@@ -20,7 +20,6 @@ Rails.application.routes.draw do
       resources :artworks
 
     end
-  end
-  
+  end  
 
 end

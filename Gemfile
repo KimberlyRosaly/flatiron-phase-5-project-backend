@@ -43,3 +43,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # LET THIS GEM HANDLE API DATA OUTPUT ♥ EASY RELATIONSHIPS | ASSOCIATIONS
 gem 'active_model_serializers'
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# GEM PAUSES PROGRAM FOR TESTING | INSPECTION - USE: 'binding.pry' INSIDE CODE
+gem 'pry'
+# =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
