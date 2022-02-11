@@ -21,6 +21,8 @@ class Api::V1::ArtworksController < ApplicationController
         end
     end
 
+
+    
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     private
         def artwork_params

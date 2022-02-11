@@ -9,6 +9,8 @@ class CreateArtworks < ActiveRecord::Migration[6.1]
       t.string :description
       t.string :image_url
 
+      t.integer :likes
+
       t.timestamps
     end
   end

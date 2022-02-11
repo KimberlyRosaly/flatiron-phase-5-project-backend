@@ -32,6 +32,7 @@ ActiveRecord::Schema.define(version: 2021_12_14_034639) do
     t.string "dimensions"
     t.string "description"
     t.string "image_url"
+    t.integer "likes"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["artist_id"], name: "index_artworks_on_artist_id"
