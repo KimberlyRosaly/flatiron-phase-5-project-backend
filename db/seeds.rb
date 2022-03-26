@@ -9,7 +9,7 @@ k_a = {
 	skills: "Digital Art, Photography, Graphic Design",
 	tools: "iPad Pro, Apple Pencil, Procreate, oil paint, graphite, ink",
 	biography: "Reclusive 'lady black thorn' cat-lady, specializing in lint-roller recommendations.",
-	image_url: "https://previews.dropbox.com/p/thumb/ABYRTVbmJGhLY6R4ccA9XZwBx4KhAvmibg2z9Qw0rgIknKi0QwAtehIn259iYtLqbhHJU_oN7pesoAKlec28mZ_pneuuftznWMi6tNn2pnyvCtJyB-sFqnpl1YZccrzSZuHB36IxJqFzwWuhWp58Z6R-bnBaDP384ynr98tiPuB0Uo2FV0FzOHv7cMiz2M-aB3X7gaV4Etf1VSLfdl7oLZBCiJCG2Ti79s6UPWI4lfx_YuF73uKhyMBU2haUvujwGsE6Bvt76y0FV-yFpqrd9dj-usHTJTILI3FctVjaYdmRSmp3pfIsSzOUyvt4O1185Ih9zzXrFxoOTK468jQR8U6cDa2Umi9o945_9IeD2niieg/p.jpeg"
+	image_url: "https://www.dropbox.com/s/mu1m4yqsw60hxqr/IMG_3980.JPG?raw=1"
 }
 a_a = {
 	id: 2,
@@ -29,9 +29,9 @@ s_a = {
 	location: "Long Island, New York",
 	website_url: "https://www.etsy.com/shop/SammyRaeCollection",
 	skills: "Hand-Made Jewelry, Photography, Event-Organizing",
-	tools: "",
-	biography: "",
-	image_url: "https://previews.dropbox.com/p/thumb/ABaR9TiEpdtTv9aNFA4ykbWKFpLc3JhPCy_iNbh0XmUD5l0WevXUNlQGSLSxL2nOU2P0LqEben-s0ulmcxOd_XyShb_5PXEcBjrJniIJIiz7xYP4hLLPW5ncEBTgoKWXIz8NHZwevpa-8Qb15znZM-suAAXYMl734iH6NnpEqgBq7RCnISh8JWZh-epwQ-0J3tLD1bK6S2Fucep_JlagbM7klXPUBrMJDfB6vH98KdUI9x8PJRyrjNy8ol04MPp2aN4OS9x2J92A7SANEs6IFDbOfU67AYu7iRL8kBCulk-L6nJc_KYgXx5jW-oBwLTwwVgsTnQkh3gr8NbQ4T61Zbtw1ywpOlUjw3n4IDlLYzzTMQ/p.jpeg"
+	tools: "Canon T6 camera, fabric & acrylic paint, natural & synthetic materials, fashion jewelry",
+	biography: "Advocate for supporting artists in the local community, focuses on collaboration in all assets in the artworld.",
+	image_url: "https://www.dropbox.com/s/2528xoeoffwltcp/44597602_316618195822487_1296817322933092352_n.jpg?raw=1"
 }
 # //= = = = = = = = = = = = = = = = = = = = = A R T W O R K
 # //= = = = = = = = = = = = = = = = = = = = = seeds
@@ -61,7 +61,7 @@ ghost_art = {
 	dimensions: "3000x3000",
 	description: "",
 	likes: 8,
-	image_url: "https://previews.dropbox.com/p/thumb/ABY7SSsjbCTQFIzBueZJoBRQnMtZ_jguAtRHPVg-euX9qfsJsLvr-yXsM3O47b91U9EHixKxyixzi5lMd6Uw6kiEItrajAHpBTkb7nXDC7n2-jmysRZrlsbguOunRzbsv7y16MXuFTOvvLgVsJ5j3buwf6m6gCgrHlA0WHgtzxd4q76JQ9mUXGHW9XUghtaKLGut61eGazVBidjE2LuAvQVjPpyX-S-q72riap9Fr-W8VINfz28o1liYrXUbpGiS_pRExUhffK5OuwA_SbMaskvMxdMKVxCM_yfMVN_nclvMsCFRxVeMPJtZrZDJ0Qo740L93AFFjuRGcTx4_7rage8ACHdJCLxO0DJlG95lB6t2kA/p.jpeg"
+	image_url: "https://www.dropbox.com/s/uwdz33es55qozr4/IMG_1432.jpg?raw=1"
 }
 bubble_art = {
 	artist_id: 2,
@@ -78,7 +78,7 @@ butterfly_art = {
 	medium: "digital painting",
 	dimensions: "1526x2160",
 	description: "",
-	image_url: "https://previews.dropbox.com/p/thumb/ABbOZBTDBYv8rnpjNa0_kcmuj4CX6XZJ75XWa6xQ8cJ8V0BD6JNDxtgQzUlyN-whetCQbWRL49lnDLaklyQKlp4ncSjKyI4h4uTFjUzDCKT7ZRWlxoo1_bzyjekUoDgwxq4DqjGeXFMSCq9-bUns0jBPXRbr2KTkx9bJ96xHW-UP8pL2yDO1JUHgtDHzoJEsNfgXck03TbBNutm4zaqN9vr9lrfES3N4B5lnsU45ZaqRhji8w0Tgx9Z3zYTCGaEK4YByklK8Sx9aAaQsAdugJh3boBxhQ968qLAjHTKt7Aqeg-IgznpvlKTaL7g-80_HB66ySzinOBBPtiDLb08-Dtuy3484vDAYnXrsFRPb9GzNT8aq79XTIwZ_IllW2IyCV2npzs9-Yw3J7KVDIGDxF0GQp_wt-NS3CA91pPuO4jAyTA/p.png",
+	image_url: "https://www.dropbox.com/s/etefb3ji4f68k1g/art1aljonapomorovaartjaegerybirdwordpress.png?raw=1",
 	likes: 25
 }
 bella_art = {
@@ -88,25 +88,25 @@ bella_art = {
 	dimensions: "3000x3000",
 	description: "Nothing more can feel like home than that of the presence of neighbors, dogs, and squirrels.",
 	likes: 3,	
-	image_url: "https://previews.dropbox.com/p/thumb/ABZMe-aV_QNGMM_C3R9vXWDTpat7TGYJru6a8QR4dm-HMd3oCK_ZWFDB3XTXcotw8R4bYfOKbRzf6ejP7CjziwqpdiKvFGyzC6UUZqbE2hFP_bRJt4bFqh1oKf_X2Vdv_SVW-dkm1_-I_cYetCdkIN3v9W_dot_vPoNaXIn-pbQjcnHnPD_VKGD2X-PmWWhSJsTPtRb6eUnr_9GF-iiD4kgz26aaycR40WrYvSUkqU4iZIYo2DVxmucCmhVm4zF_CpXMVE6VM0kSIXVnnN2UHr3kLQVDTucIk-pIXGucNy5akRKfhvtf2hPwpMtSpRK1ijkfcbCdEnGrtKavT4Yj4bBa2-xAKcPaLDmMaZbY8iNQFQ/p.jpeg"
+	image_url: "https://www.dropbox.com/s/gxuwwvcoja6h6i6/IMG_1430%20%282%29.jpg?raw=1"
 }
 floral_art = {
 	artist_id: 3,
 	title: "Rose Bead",
 	medium: "photography | Canon | artifical flowers, hand-carved jewelry",
-	dimensions: "",
+	dimensions: "rose gold chain - 17 inches",
 	description: "Floral display featuring delicate, hand-carved beaded necklace",
 	likes: 9,
-	image_url: "https://previews.dropbox.com/p/thumb/ABaSjuq80_BhnXNq5vIEtzshpQIYjL81bFDRZZS8g38H-cSFjFtnpu9adFg5hy2YKoB3tUH_pqBbpSPnOCJE-ElwQpeBKyMk2kQxEZnjn-lQj6r5jK23t9ZNKufFomCvch6tH4Dq-ntyO0pwPgi5wXJpE8LWcJsBLVsPp4w4hdS0nPlURdKZLlEwxoRh4LaNdIdebHK3sDp8C8ERtDeBpCFwcgGDGzM6W3vIj8zTONy91ZeX3hNyBtpvsRYGTJzLvzJszAhT3w6mRFwRwG69mBxQla2akIDpc-a7up4PCz9s2sZaZIOTvqJv9QmOVUQzgKJgdapN6J4beoPbScfgAr1-lr14NIzEZeghwprTynPuXA/p.jpeg"
+	image_url: "https://www.dropbox.com/s/9oa69p5osc2sbbk/95511393_632473274001671_5814468154855784448_n.jpg?raw=1"
 }
 donut_art = {
 	artist_id: 3,
 	title: "Sprinkle Donut Bag",
 	medium: "photography | Canon | acrylic paint, leatherette bag, acrylic charm",
-	dimensions: "",
+	dimensions: "9 x 5 3/4 inches",
 	description: "Hand-painted donut bag with matching charm",
 	likes: 91,
-	image_url: "https://previews.dropbox.com/p/thumb/ABb1FgJi5F_cvIzEGQFVRM_GSoOM_77QmVfhD6ry5hJgpDSWZO8Z8BAB0yCkTZp_hshTUMndY1ndbIjOlTq_pcPnbIHSI4FZd80v5Q8B_D6nplm-6AfJy7b21eHYCX0YmcTGqKR8BQpO9BguHHDKIHRgvLBf3p4YEx5YQgZffqmNcwdt0cBCduUa0YG3r6CQKDWrhKZp_h1qcYxKeX1__olWQR0QuDqYnZgu4carpLl_M5bYMTZvAli7AHeelwZfDNog1rlZ8LWu-klmJHvw2qkKDPnnLW5bdROzMRignR5i2HRSMsn7GCtiucfkFoFo6p6sTitIG6e6eMtgz2BY3Jbd6Zcrht5Cy8kdK3H6HK32uQ/p.jpeg"
+	image_url: "https://www.dropbox.com/s/ta2tmbeff0sxjc5/106616857_670770833505248_6805779265193367578_n.jpg?raw=1"
 }
 faces_art = {
 	artist_id: 2,
